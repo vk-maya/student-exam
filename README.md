@@ -1,8 +1,8 @@
-# Online Exam Portal
+# Student Exam
 
 ## Overview
 
-This project is an **Online Exam Portal** built using **Laravel** and **MongoDB**.  
+This project is an **Student Exam** built using **Laravel** and **MongoDB**.  
 The portal allows students to register, log in, select an exam, attempt questions, and view their scorecard after submission.
 
 ---
