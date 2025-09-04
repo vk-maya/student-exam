@@ -80,7 +80,7 @@ The portal allows students to register, log in, select an exam, attempt question
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/vk-maya/student-exam.git
 cd online-exam-portal
 
 Install dependencies:
