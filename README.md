@@ -81,7 +81,7 @@ The portal allows students to register, log in, select an exam, attempt question
 
 ```bash
 git clone https://github.com/vk-maya/student-exam.git
-cd online-exam-portal
+cd student-exam
 
 Install dependencies:
 composer install
@@ -91,9 +91,6 @@ npm run dev
 
 Configure .env:
 .env.example copay and past rename .env
-
-
-Configure .env:
 
 # set const variable value databse
 DB_DATABASE=exam_portal
